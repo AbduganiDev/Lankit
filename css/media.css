@@ -1,0 +1,626 @@
+@media (min-width:992px) and (max-width:1200px) {
+    .break {
+        height: 450px;
+    }
+    .standard {
+        width: 50%;
+        height: 434px;
+        padding-top: 25px;
+    }
+    .standard .Spo {
+            transform: translate(110%,0);
+        }
+    .standard h2 {
+         font-size: 2rem;
+        }
+    .standard span {
+                font-size: 1rem; 
+        }
+    .standard   h2::before {
+            font-size: 18px;
+        }
+    .standard p {
+            font-size: 14px;
+        }
+    .standard .icon {
+            margin-right: 10px;
+            margin-bottom: 15px;
+            margin-left: 10px;
+        }     
+
+    
+    
+    .standard1 {
+        width: 50%;
+        height: 375px;
+    }
+    .standard1 .Spo {
+            transform: translate(110%,0);
+        }
+    .standard1 p {
+            font-size: 14px;
+    }
+
+    /* Most Useful */
+
+    .forma, .most-useful{
+        width: 50%;
+    }
+    .text-resource {
+        width: 50%;
+        transform: translate(100px, 0);
+    }
+
+    .bg-fluid {
+        height: 2650px;
+    }
+
+    .forma .btn {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .text-resource {
+        width: 80%;
+    }
+    .text-resource h2 {
+        font-size: 20px;
+    }
+    .text-resource p {
+        font-size: 12px !important;
+    }
+    .text-resource .icon-time span {
+        font-size: 12px !important;
+    }
+
+    /* Built themes */
+
+    .built-themes h2 {
+        font-size: 22px;
+    }
+    .built-themes p {
+        font-size: 12px !important;
+    }
+    .built-themes h4 {
+        font-size: 18px;
+    }
+
+    /* Costomers */
+    .Costomers h2 {
+        font-size: 22px;
+    }
+    .Costomers p {
+        font-size: 14px;
+    }
+    /* Design */
+    .stay h2 {
+        font-size: 22px;
+    }
+    .stay p {
+        font-size: 14px;
+    }
+
+    /* Pricing */
+
+    .pricing h2 {
+        font-size: 22px;
+    }
+    .pricing p {
+        font-size: 14px;
+    }
+
+
+    /* Questions */
+
+    .bg-questions {
+        height: 750px;
+    }
+    .bg-questions h2 {
+        font-size: 20px;
+    }
+    .bg-questions p {
+        font-size: 12px !important;
+    }
+    .get .btn {
+        padding: 10px 15px;
+    }
+
+}
+
+
+@media (min-width:768px) and (max-width:991.9px){
+    .landkit h1 {
+        font-size: 20px;
+    }
+    .landkit p{
+        font-size: 12px;
+    }
+    .landkit .tugma1, .landkit .tugma {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+
+    .box h4 {
+        font-size: 14px;
+    }
+    .box p {
+        font-size: 10px;
+    }
+
+    /* Resourse */
+    .text-resource h2{
+        font-size: 20px;
+    }
+    .text-resource p {
+        font-size: 12px !important;
+    }
+    .icon-time span {
+        font-size: 12px !important;
+    }
+
+    /* Builts */
+
+    .built-themes h2 {
+        font-size: 20px;
+    }
+    .built-themes p {
+        font-size: 10px !important;
+    }
+    .built-themes h4 {
+        font-size: 14px;
+    }
+    .built-themes .fas, .built-themes .far {
+        font-size: 2rem;
+    }
+    .experience .img {
+        margin-top: 5%;
+    }
+
+    /* Customers */
+
+    .Costomers h2 {
+        font-size: 20px;
+    }
+    .Costomers p {
+        font-size: 14px;
+    }
+
+    /* Instagram */
+
+    .instagram img {
+        height: 100%;
+    }
+    #instagram h2 {
+        font-size: 2rem !important;
+    }
+    #instagram p {
+        font-size: 14px !important;
+    }
+    .bg-fluid {
+        height: 2240px;
+    }
+
+    /* Design  */
+
+    .design h2 {
+        font-size: 20px;
+    }
+    .design p {
+        font-size: 10px;
+    }
+    .stay h4 {
+        font-size: 16px;
+    }
+    
+    /* Pricing */
+
+    .pricing h2 {
+        font-size: 20px;
+    }
+    .pricing p {
+        font-size: 12px;
+    }
+
+    /* Forma */
+    .break {
+        height: 419px;
+    }
+    .standard {
+        height: 443px;
+    }
+    .standard .Spo {
+        transform: translate(60%,0);
+        font-size: 12px;
+    }
+    .standard h2 {
+        font-size: 22px;
+    }
+    .standard span {
+        font-size: 14px !important;
+    }
+    .standard h2::before {
+        content: "$";
+        position: absolute;
+        top: 2px;
+        left: 35%;
+        font-size: 14px;
+    }
+    .standard p {
+        font-size: 12px;
+    }
+    .standard .icon {
+        margin-bottom: 20px;
+        margin-left: 10px;
+    }
+    .standard .nick {
+        font-size: 12px !important;
+    }
+    .standard1 {
+        margin-top: 100px;
+        height: 296px;
+    }
+    .standard1 .Spo {
+        transform: translate(60%,0);
+        font-size: 12px;
+        margin-bottom: 80px;
+    }
+    .standard1 p {
+        font-size: 10px;
+        margin-bottom: 70px;
+    }
+
+    /* Question */
+    .bg-questions {
+        height: 675px;
+    }
+    .bg-questions .fas {
+        padding: 10px;
+    }
+    .bg-questions h2 {
+        font-size: 14px;
+    }
+    .bg-questions p {
+        font-size: 10px;
+    }
+    .get .btn {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .get p ,.get h2{
+        margin-bottom: 20px;
+    }
+    /* Footer */
+    .footer {
+        height: 328px;
+    }
+    .footer h2 {
+        font-size: 20px !important;
+    }
+    .second h2 {
+        font-size: 18px !important;
+    }
+    .second li {
+        font-size: 12px;
+    }
+}
+
+@media (min-width:576px) and (max-width:767.9px){
+    .landkit {margin-bottom: 80px;}
+    .landkit h1 {
+        font-size: 16px;
+    }
+    .landkit p{
+        font-size: 10px;
+    }
+    .landkit .tugma1, .landkit .tugma {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+    .box {
+        margin-bottom: 50px;
+    }
+    .box i {
+        font-size: 26px;
+    }
+    .box h4 {
+        font-size: 12px;
+    }
+    .box p {
+        font-size: 10px;
+    }
+ /* Forma */
+ .card-body label{
+        font-size: 12px !important;
+ }
+ .card-body input {
+    margin-bottom: 10px;
+ }
+ .card-body .btn {
+    padding: 10px 0 !important;
+    font-size: 12px !important;
+ }
+
+ .most-useful h2 {
+     font-size: 16px;
+ }
+ .most-useful p{
+     font-size: 12px !important;
+ }
+ .most-useful .icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    font-size: 10px;
+    line-height: 10px;
+    padding:5px 5px;
+ }
+ .icon-time span {
+     font-size: 8px !important;
+ }
+
+ /*  */
+ .experience {
+    margin-top: 5%;
+ }
+ .built-themes h2 {
+     font-size: 16px;
+ }
+ .built-themes p {
+     font-size: 10px !important;
+ }
+ .built-themes h4 {
+     font-size: 14px;
+ }
+ .built-themes i {
+     font-size: 14px;
+ }
+  .img {
+     margin-top: 20%;
+ }
+ /* Costomers */
+ .Costomers h2 {
+     font-size: 16px;
+ }
+ .Costomers p {
+     font-size: 12px;
+ }
+ /* Instagram */
+.instagram img {
+    height: 100%;
+}
+ #instagram h2 {
+     font-size: 16px !important;
+ }
+ #instagram p {
+     font-size: 12px !important; 
+ }
+ #instagram #icon {
+    position:absolute;
+    top: 50%;
+    right: 2%; 
+    padding: 12px !important;
+    border-radius: 50%;
+    background-color: #4068EB;
+    color: #fff; 
+}
+.instagram  #icon1 {
+    position:absolute;
+    top: 50%;
+    left: 0;
+    padding: 12px;
+    border-radius: 50%;
+    background-color: #4068EB;
+    color: #fff; 
+}
+.bg-fluid {
+    height: 1990px;
+}
+
+/* Stay */
+
+.stay h2 {
+    font-size: 14px;
+}
+.stay p {
+    font-size: 9px !important;
+}
+.stay h4 {
+    padding-top: 10px;
+    font-size: 14px;
+}
+.stay p {
+    font-size: 10px;
+}
+
+/* Pricing */
+.pricing {
+    margin-top: 5%;
+}
+.pricing h2 {
+    font-size: 16px;
+}
+.pricing p {
+    font-size: 12px
+}
+
+.break {
+    display: block;
+    height: 825px;
+}
+.standard {
+    width: 100%;
+    height: 453px;
+}
+.standard1 {
+    width: 100%;
+}
+.standard h2 {
+    font-size: 20px;
+}
+ .standard span {
+        font-size: 12px !important;
+    }
+    .standard h2::before {
+        content: "$";
+        position: absolute;
+        top: -5px;
+        left: 40%;
+        font-size: 16px;
+    }
+    .standard1 {
+        height: 376px;
+    }
+    .standard1 p {
+        font-size: 14px;
+    } 
+
+    .bg-questions {
+        height: 675px;
+    }
+    .bg-questions .fas {
+        padding: 10px;
+    }
+    .bg-questions h2 {
+        font-size: 14px;
+    }
+    .bg-questions p {
+        font-size: 10px;
+    }
+    .get .btn {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .get p ,.get h2{
+        margin-bottom: 20px;
+    }
+   
+    /* Footer */
+    .footer {
+        height: 328px;
+    }
+    .footer h2 {
+        font-size: 16px !important;
+    }
+    .second h2 {
+        font-size: 16px !important;
+    }
+    .second li {
+        font-size: 12px;
+    }
+}
+
+@media (min-width:500px) and (max-width:575.9px) {
+    .box {
+        margin-bottom: 30px;
+    }
+
+    .img-partner {
+        height: 450px;
+    }
+    .img-partner .col-xs-2 {
+        width: 50%;
+    }
+    .bg-fluid .col-xs-12 {
+        width: 100%;
+    }
+    .forma {
+        width: 100%;
+    }
+    .qator {
+        height: 1200px;
+    }
+    .most-useful {
+        padding-top: 5%;
+}
+
+.most-useful .icon {
+   margin-bottom: 20px;
+}
+.built-themes h2 {
+    font-size: 30px;
+}
+.sele {
+    display: flex;
+}
+.sele .col-xs-2{
+    width: 16.66666667%;
+}
+.sele .col-xs-9 {
+    width: 80.666666%;
+}
+.sele h4 {
+    font-size: 16px;
+}
+.sele p{
+    font-size: 12px !important;
+}
+.Costomers h2 {
+    font-size: 22px;
+}
+ .Costomers p {
+    font-size: 14px;
+}
+.bg-fluid {
+    height: 3770px;
+}
+.instagram #icon1 {
+    top: 90%;
+}
+.instagram #instagram  {
+    margin-top: 5%;
+}
+.instagram #instagram  #icon{
+    position:absolute;
+    top: -10%;
+    right: 0; 
+    padding: 20px;
+    border-radius: 50%;
+    background-color: #4068EB;
+    color: #fff; 
+    }
+
+    .stay h2 {
+        font-size: 22px;
+    }
+    .stay .col-xs-4 {
+        width: 33.3333334%;
+    }
+    .break {
+        display: block;
+    }
+    .break {
+        display: block;
+        height: 870px;
+    }
+    .standard {
+        width: 100%;
+        height: 453px;
+        margin-bottom: 50px;
+    }
+    .standard .Spo, .standard1 .Spo {
+        transform: translate(170%,0);
+    }
+    .standard1 {
+        width: 100%;
+    }
+    .bg-questions {
+        height: 1090px;
+    }
+    .bg-questions .col-xs-2 {
+        width: 16.6666667%;
+    }
+    .bg-questions .col-xs-10 {
+        width: 80.444443%;
+    }
+    .bg-questions .col-xs-10 h2 {
+        font-size: 22px;
+    }
+    .bg-questions .col-xs-10 p {
+        font-size: 10px;
+    }
+
+    .footer .col-xs-6 {
+        width: 50%;
+        margin-top: 30px;
+    }
+
+}
